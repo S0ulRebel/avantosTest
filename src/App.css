@@ -1,0 +1,15 @@
+.app-shell {
+  padding: 2rem;
+  max-width: 42rem;
+  margin: 0 auto;
+  font-family:
+    system-ui,
+    -apple-system,
+    Segoe UI,
+    sans-serif;
+  line-height: 1.5;
+}
+
+.app-shell code {
+  font-size: 0.95em;
+}
