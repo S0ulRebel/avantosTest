@@ -18,6 +18,7 @@
 
 - src/
   - api/
+    - `__tests__/` — Vitest specs beside the module they test (e.g. `graph.test.ts` for `graph.ts`)
   - core/
     - graph/
   - data-sources/
@@ -138,6 +139,7 @@ Implements:
 
 ## Testing strategy
 
+- Unit tests beside modules under **`src/…/__tests__/`** (e.g. `src/api/__tests__/graph.test.ts`)
 - Graph traversal (DFS/BFS) and dependency results
 - Data source aggregation
 - Mapping create / update / delete
