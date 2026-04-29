@@ -1,0 +1,7 @@
+#
+# <type>: <subject (~50 chars, imperative)>
+#
+# Types: docs feat fix chore test refactor
+# Omit scope unless useful (e.g. docs(api): …).
+#
+# Optional body after a blank line.
